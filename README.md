@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @patelshaan
-- 👀 I’m interested in competitive programming, competitive Science Bowl, Science Fair, First Robotics, as well as everything related to biology and math/informatics. I am the drumline captain at my school as well as an avid drumset player. I find great interest in learning many languages; I speak English, Gujurati, and Hindi. I am learning Spanish, Mandarin, and more fluent Hindi.
-- 🌱 I’m currently learning Pre-Calculus and general science bowl driven scientific knowledge as an 8th grader; I am fluent in Python coding, and I am learning Javascript and C++. I am learning App development coding skills in Kotlin and HTML.
+- 👀 I do a lot of competitive programming, robotics, and stuff related to math/informatics. I love learning languages; I speak English, Gujurati, and Spanish, and I'm learning Hindi, Mandarin, and more Spanish.
+- 🌱 I’m currently learning Java and applications with that as an 9th grader; I am fluent in Python, and I specialize in stats and ai things like scikit, matplotlib, and tensorflow/keras. I work on a ton of app development and a goal I have is to learn CSS & HTML!
 - 📫 How to reach me: At my Gmail: patelshaan9898@gmail.com 
 
 <!---
