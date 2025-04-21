@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @patelshaan
-- 👀 90% of my programming is for practical problems in the real-world including coral conservation, heart attack detection, traffic coordination & more!
-- 🌱 I’m currently learning Java and applications, fluent in Python, and I specialize in AI/ML with tensorflow/keras. Goal I have: perfect my Java.
-- 📫 How to reach me: Gmail: patelshaan9898@gmail.com
+- 👀 90% of my programming is for practical problems in the real-world! Take a look! https://www.linkedin.com/in/shaan-patel-50a8a9357/
+- 🌱 I’m currently learning Java and applications, with HTML/CSS, Python, C++, Flutter/Dart, JS, MATLAB, and Linux experience. I specialize in AI/ML with tensorflow/keras. Goal I have: perfect my Java.
+- 📫 How to reach me: patelshaan9898@gmail.com
 
 <!---
 patelshaan/patelshaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
