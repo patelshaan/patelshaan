@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @patelshaan, high school student in The Woodlands, TX
-- 👀 90% of my programming is for practical problems in the real-world! Take a look! https://www.linkedin.com/in/shaan-patel-50a8a9357/
-- 🌱 I’m currently learning Java and applications, with HTML/CSS, Python, C++, Flutter/Dart, JS, MATLAB, and Linux experience. I specialize in AI/ML with tensorflow/keras. Goal I have: perfect my Java.
+- 👋 Hi, I’m @patelshaan, high school student in TX
+- 🌱 Goals right now: build some websites & get good at java
 - 📫 How to reach me: patelshaan9898@gmail.com
 
 <!---
